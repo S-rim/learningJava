@@ -1,4 +1,4 @@
-#### 정수형 변수, number를 선언하고 3을 저장해보세요.
+// 정수형 변수
 
         public class VariableExam {
             public static void main(String[] args) {
@@ -10,7 +10,7 @@
         }
 
 
-#### 상수 PI를 만들어보세요.
+// 상수
 
         public class ConstantExam {
             public static void main(String[] args) {
@@ -24,7 +24,7 @@
             }
 
 
-#### 기본형 타입
+// 기본형 타입
 
         public class PrimitiveDataTypeExam {
             public static void main(String[] args) {
@@ -49,7 +49,7 @@
             }
 
 
-#### 기본형 타입 변환
+// 기본형 타입 변환
 
         public class TypeCastingExam {
             public static void main(String[] args) {
@@ -62,7 +62,7 @@
             }
 
 
-#### 산술연산자
+// 산술연산자
 
         public class OperatorExam {
             public int[] calculate() {
@@ -100,7 +100,7 @@
             }
         }
 
-#### 비교연산자
+// 비교연산자
 
         int i = 10; 
         int j = 10;    
