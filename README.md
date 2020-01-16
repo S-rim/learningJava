@@ -1,2 +1,3 @@
 # learningJava
-java 기본 문법 배우고 정리
+
+java 기본 문법 학습하고 정리
